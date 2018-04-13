@@ -1,0 +1,31 @@
+body{
+	color:green;
+	margin:20px;
+	margin:auto;
+}
+#div-login{
+	border: 1px  solid green;
+	border-radius:10px;
+	text-align:left;
+	padding:10px;	
+	width:500px;
+}
+#text-control{
+	/*height:50px;*/
+}
+h3{
+	color:black;
+}
+footer{
+	margin_top:100px;
+	background-color:green;
+	color:white;
+}
+table{
+	border:1px solid gray;
+	cell-padding:0px;
+	cell-spacing:0px;
+}
+table, td,th{
+	border:1px solid gray;
+}

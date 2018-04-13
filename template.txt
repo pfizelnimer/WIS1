@@ -1,0 +1,28 @@
+<?php 
+	//user_login.php 
+?>
+<!doctype html>
+<html>
+	<head>
+		<?php
+			$pgTitle="User login page";
+			require_once('./components/headers.php');
+		?>
+	<style>
+	
+	</style>
+	<script>
+	
+	</script>
+	</head>
+<body>
+	<?php
+		require_once('./components/banners.php');
+	?>
+	
+	
+	<?php
+		require_once('./components/footers.php');
+	?>
+</body>
+</html>
